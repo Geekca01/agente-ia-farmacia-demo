@@ -1,0 +1,1 @@
+# Frontend dummy para MVP
